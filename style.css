@@ -1,0 +1,29 @@
+/* body & font */
+body{
+margin: ;
+font-family: Helvetica;
+
+}
+
+h1 {
+
+}
+
+a{
+
+}
+
+/* ID & Class */
+
+#container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 100vh;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
